@@ -1,6 +1,9 @@
 # BannedWords
 A simple CS2 plugin that lets you set a configurable list of words that will result in an automatic silence or gag.
 
+## [ Credits ]
+> [!IMPORTANT]
+> The idea and some of the code structure comes from [ExtraUtilities](https://github.com/johandrevwyk/ExtraUtilities) by [johandrevwyk](https://github.com/johandrevwyk)
 ## [ Configuration ]
 
 > [!NOTE]
@@ -16,7 +19,7 @@ A simple CS2 plugin that lets you set a configurable list of words that will res
   "BannedWords": [
     "word1",
     "word2",
-	  "word3",
+    "word3",
   ],
   "ConfigVersion": 1
 }
