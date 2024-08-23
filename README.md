@@ -1,5 +1,7 @@
 # BannedWords
-A simple CS2 plugin that lets you set a configurable list of words that will result in an automatic silence or gag.
+A simple CS2 plugin for CounterStrikeSharp that lets you set a configurable list of words that will result in an automatic silence or gag.
+
+Requires [CS2-SimpleAdmin](https://github.com/daffyyyy/CS2-SimpleAdmin)
 
 ## [ Credits ]
 > [!IMPORTANT]
